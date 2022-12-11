@@ -1,35 +1,47 @@
-#Ilya Ganisevsky#
+# Ilya Ganisevsky
 
-##Contacts##
+---
+
+## Contacts
+
+---
 
 - E-Mail: [ilyaganisevsky@gmail.com](mailto:ilyaganisevsky@gmail.com)
 - GitHub: [ganisevsky](https://github.com/ganisevsky)
 - Discord: ilya (@ganisevsky)
-  ##About me##
+
+## About me
 
 ---
 
 My name is _Ilya Ganisevsky_. I'm excited to study for **a new profession**.
-##Skills##
+
+## Skills
 
 ---
 
 - Hard Skills: Basic knowledge of HTML5 and CSS3
 - Soft Skills: - Teamwork - Learnability - Stress tolerance
-  ##Code Example##
+
+## Code Example
 
 ---
 
-```function multiply(a, b){
-  a * b
+```javascript
+function multiply(a, b) {
+  a * b;
 }
 ```
 
-##Experience##
+## Experience
+
+---
 
 Not yet
 
-##Languages##
+## Languages
+
+---
 
 - Russian - Native
 - English - A2
