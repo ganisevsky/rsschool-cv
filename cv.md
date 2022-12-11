@@ -1,7 +1,5 @@
 # Ilya Ganisevsky
 
----
-
 ## Contacts
 
 - **E-Mail**: [ilyaganisevsky@gmail.com](mailto:ilyaganisevsky@gmail.com)
@@ -36,5 +34,3 @@ I do not have experience.
 
 - Russian - Native
 - English - A2
-
----
