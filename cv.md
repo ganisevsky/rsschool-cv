@@ -21,7 +21,10 @@ My name is _Ilya Ganisevsky_. I'm excited to study for **a new profession**.
 ---
 
 - Hard Skills: Basic knowledge of HTML5 and CSS3
-- Soft Skills: - Teamwork - Learnability - Stress tolerance
+- Soft Skills:
+  - Teamwork
+  - Learnability
+  - Stress tolerance
 
 ## Code Example
 
